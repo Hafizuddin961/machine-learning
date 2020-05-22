@@ -1,0 +1,5 @@
+import numpy as np
+import sklearn
+from sklearn.preprocessing_import_scale
+from sklearn.preprocessing_import_load_digits
+from sklearn.cluster_import_KMeans
